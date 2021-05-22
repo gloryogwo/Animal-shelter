@@ -2,3 +2,20 @@ img {
   height: 300px;
   width: 300px;
 }
+
+.column {
+  width: 800px;
+  float: right;
+}
+.column {
+  border: 5px solid purple;
+  padding: 4px;
+  margin: 12px;
+  background-color: plum;
+}
+body {
+  background-color: rosybrown;
+}
+.begin {
+  color: purple;
+}

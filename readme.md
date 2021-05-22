@@ -27,13 +27,12 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _no bugs*
 
 ## License
 
-_Once you _
+_Glory _
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_cuddleanimalshelter.gmail.com_
